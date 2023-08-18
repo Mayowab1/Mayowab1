@@ -3,7 +3,7 @@
 <h3 align="center">A passionate data analyst from London who loves to create exciting visuals.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdmNHppMnF2eWthZXNzZ3M3a2YwdGx3bW1xbXg4ZWkwN3U5cmwzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
-- 🌱 I’m currently learning **Python, Rstudio and PowerBi**
+- 🌱 I’m currently learning **Python, Rstudio, Tableau and PowerBi**
 
 - 📫 How to reach me **mayowa.bamiro26@gmail.com**
 
